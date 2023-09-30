@@ -8,36 +8,36 @@ export default function LearnMore() {
               <div className="overlap-group">
                 <div className="text-wrapper">Learn More!</div>
                 <p className="what-is-a-carbon">
-                  What is a carbon footprint and sustainability? <br />A carbon footprint is the total amount of greenhouse
+                  What is a carbon footprint and sustainability? <br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· A carbon footprint is the total amount of greenhouse
                   gases, primarily carbon dioxide (CO2), and other pollutants emitted into the atmosphere as a result of
                   human activities.
                   <br />
-                  Sustainability is the practice of using resources in a way that meets present needs without compromising
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Sustainability is the practice of using resources in a way that meets present needs without compromising
                   the ability of future generations to meet their needs.
                   <br />
                   <br />
                   How to Reduce Your Carbon Footprint Through Transportation
                   <br />
-                  Drive less
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Drive less
                   <br />
-                  Go easy on the acceleration and brakes
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Go easy on the acceleration and brakes
                   <br />
-                  Carpool
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Carpool
                   <br />
                   <br />
                   How to Reduce Your Carbon Footprint Through Food
                   <br />
-                  Choose organic and local foods that are in season
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Choose organic and local foods that are in season
                   <br />
-                  Reduce your food waste
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Reduce your food waste
                   <br />
-                  Use reusable cups, plates, utensils, bottles and containers
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· Use reusable cups, plates, utensils, bottles and containers
                   <br />
                   <br />
                   There are hundreds of other ways to decrease your carbon footprint that can be found in the resources
                   below! Take your first step to save our planet!
                   <br />
-                  https://www.constellation.com/energy-101/energy-innovation/how-to-reduce-your-carbon-footprint.html#transportation
+                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;· https://www.constellation.com/energy-101/energy-innovation/how-to-reduce-your-carbon-footprint.html#transportation
                 </p>
                 <img
                   className="final-removebg"
