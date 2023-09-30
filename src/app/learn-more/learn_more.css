@@ -1,0 +1,173 @@
+.index {
+    background-color: #01010a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .index .div {
+    background-color: #01010a;
+    height: 1024px;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .index .overlap {
+    height: 881px;
+    left: 77px;
+    position: absolute;
+    top: 120px;
+    width: 1313px;
+  }
+  
+  .index .overlap-group {
+    height: 881px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1313px;
+  }
+  
+  .index .text-wrapper {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 40px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -0.8px;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 0;
+    width: 331px;
+  }
+  
+  .index .what-is-a-carbon {
+    color: #ffffff;
+    font-family: "Manjari", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.5px;
+    line-height: 35px;
+    position: absolute;
+    top: 72px;
+    width: 763px;
+  }
+  
+  .index .final-removebg {
+    height: 233px;
+    left: 747px;
+    object-fit: cover;
+    position: absolute;
+    top: 635px;
+    width: 566px;
+  }
+  
+  .index .image {
+    height: 558px;
+    left: 769px;
+    object-fit: cover;
+    position: absolute;
+    top: 25px;
+    width: 522px;
+  }
+  
+  .index .group {
+    height: 40px;
+    left: 77px;
+    position: absolute;
+    top: 53px;
+    width: 1293px;
+  }
+  
+  .index .text-wrapper-2 {
+    color: #f5f5fe;
+    font-family: "Inter", Helvetica;
+    font-size: 30px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: -0.6px;
+    line-height: 30px;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .index .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    gap: 30px;
+    left: 859px;
+    position: absolute;
+    top: 12px;
+  }
+  
+  .index .text-wrapper-3 {
+    color: #d8d8d9;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.32px;
+    line-height: 16px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .index .text-wrapper-4 {
+    color: #b0b0b1;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: -0.32px;
+    line-height: 16px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .index .div-wrapper {
+    align-items: center;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 8px;
+    position: relative;
+  }
+  
+  .index .frame-2 {
+    align-items: center;
+    background-color: #2ecc71;
+    border-radius: 6px;
+    display: inline-flex;
+    gap: 8px;
+    justify-content: center;
+    left: 1163px;
+    padding: 12px 16px;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: -0.32px;
+    line-height: 16px;
+    margin-top: -1px;
+    position: relative;
+    white-space: nowrap;
+    width: fit-content;
+  }
+  
+  .index .vector {
+    height: 8.25px;
+    margin-right: -0.75px;
+    position: relative;
+    width: 4.88px;
+  }
+  
