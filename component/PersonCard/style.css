@@ -1,0 +1,72 @@
+.person-card {
+    height: 322px;
+    position: relative;
+    width: 212px;
+  }
+  
+  .person-card .rectangle {
+    background-color: #ffffff0d;
+    border: 1px solid;
+    border-color: #464646;
+    border-radius: 6px;
+    height: 269px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 212px;
+  }
+  
+  .person-card .overlap-group {
+    border-radius: 2px;
+    height: 15px;
+    left: 197px;
+    position: absolute;
+    top: 282px;
+    width: 15px;
+  }
+  
+  .person-card .vector {
+    height: 9px;
+    left: 3px;
+    position: absolute;
+    top: 3px;
+    width: 9px;
+  }
+  
+  .person-card .div {
+    background-color: #d9d9d91a;
+    border: 0.5px solid;
+    border-color: #464646;
+    border-radius: 2px;
+    height: 15px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 15px;
+  }
+  
+  .person-card .sahas-kumaraguru {
+    color: #ffffff;
+    font-family: "Inter", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: -0.32px;
+    line-height: normal;
+    position: absolute;
+    top: 281px;
+    white-space: nowrap;
+  }
+  
+  .person-card .team-captain {
+    color: #979797;
+    font-family: "Inter", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: -0.28px;
+    line-height: normal;
+    position: absolute;
+    top: 304px;
+  }
+  
