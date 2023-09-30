@@ -8,7 +8,7 @@ export default function Home() {
         <NavBar />
         <div className="group-2">
           <div className="frame-3">
-            <div className="text-wrapper-4">Evaluate your carbon footprint</div>
+            <Link className="text-wrapper-4" href={'/questionarrie'}>Evaluate your carbon footprint</Link>
             <img
               className="img"
               alt="Vector"
@@ -16,7 +16,7 @@ export default function Home() {
             />
           </div>
           <div className="frame-4">
-            <div className="text-wrapper-4">Learn More</div>
+            <Link className="text-wrapper-4" href="/learn-more">Learn More</Link>
             <img
               className="img"
               alt="Vector"

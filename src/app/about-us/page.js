@@ -1,3 +1,4 @@
+import Link from "next/link"
 import { PersonCard } from "../../../component/PersonCard/personCard"
 import './about_us.css'
 
@@ -55,14 +56,14 @@ export default function AboutUs() {
                 <div className="group-2">
                   <div className="text-wrapper-3">CarbonTrack</div>
                   <div className="frame-2">
-                    <div className="text-wrapper-4">Home</div>
-                    <div className="text-wrapper-5">Learn More</div>
+                    <Link className="text-wrapper-4" href={'/'}>Home</Link>
+                    <Link className="text-wrapper-5" href={'/about-us'}>About Us</Link>
                     <div className="div-wrapper">
-                      <div className="text-wrapper-5">Resources</div>
+                      <Link className="text-wrapper-5" href={'/questionarrie'}>Questionairre</Link>
                     </div>
                   </div>
                   <div className="frame-3">
-                    <div className="text-wrapper-6">Learn More</div>
+                    <Link className="text-wrapper-6" href={'/learn-more'}>Learn More</Link>
                     <img
                       className="img"
                       alt="Vector"

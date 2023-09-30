@@ -8,7 +8,7 @@ export default function NavBar() {
             <Link className="text-wrapper-2" href={'/'}>Home</Link>
             <Link className="text-wrapper-3" href={'/about-us'}>About Us</Link>
             <div className="div-wrapper">
-              <Link className="text-wrapper-3" href={'/resources'}>Resources</Link>
+              <Link className="text-wrapper-3" href={'/questionarrie'}>Questionairre</Link>
             </div>
           </div>
           <div className="frame-2">
