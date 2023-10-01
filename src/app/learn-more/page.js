@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import './learn_more.css'
 
 export default function LearnMore() {
@@ -57,7 +58,7 @@ export default function LearnMore() {
                 <div className="text-wrapper-3">Home</div>
                 <div className="text-wrapper-4">Learn More</div>
                 <div className="div-wrapper">
-                  <div className="text-wrapper-4">Resources</div>
+                  <Link className="text-wrapper-4" href={"/questionarrie"}>Questionarrie</Link>
                 </div>
               </div>
               <div className="frame-2">
